@@ -1,4 +1,4 @@
-# Data-Structures-Algorithms-1649
+# Data-Structures-Algorithms-Java
 Introduction 
 This report will help you understand how to create abstract data structures and data types design specification and it will provide information to help you understand what analysist of algorithms, arrays, sorting algorithms, linked lists are and then we will discuss the stack and Queues before coming to the report. It provides information on each type of principles, operations, and functions. Java programming language to write code to implement this various data structure and algorithms 
 P1 - Create a design specification for data structures explaining the valid operations that can be carried out on the structures. 
